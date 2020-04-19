@@ -1,0 +1,10 @@
+/build/
+/.vscode/
+build_timings.ctm
+ctime.exe
+flic-file-format
+tags
+callgrind*
+assets/*.WAR
+.vscode-ctags
+.markdownlint.json
